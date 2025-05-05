@@ -286,7 +286,7 @@ button#fixedPlayBtn {
     /* Playlist itens em coluna */
     .playlist-item {
         /* flex-direction: column; */
-        align-items: flex-start;
+        align-items: end;
     }
 
     .playlist-item strong {
