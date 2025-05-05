@@ -9,6 +9,10 @@ Vem à igreja, reza e pede
 O amor que sempre mede quando é hora de doar?
 Sufocando o seu desejo
 Vai vivendo no varejo, não é templo nem altar?
+
+A família como vai? Meu irmão venha e responda!
+Quem pergunta é o pai, a verdade não esconda!
+
 Vai levando a vida em curso
 Pregadora de discurso, sem combate à opressão?
 Nada falta, tem de tudo
@@ -22,6 +26,10 @@ Num viver de alegria
 Dia e noite, noite e dia num eterno agradecer
 Com o pouco que se tem
 Se trabalha para o bem, sem deixar ninguém sofrer
+
+A família como vai? Meu irmão venha e responda!
+Quem pergunta é o pai, a verdade não esconda!
+
 Coração que se faz templo
 Modelando o bom exemplo de amor puro e profundo
 Abram templo e coração
@@ -29,7 +37,7 @@ Para que na comunhão
 Se devolva a paz ao mundo!
 
 A família como vai? Meu irmão venha e responda!
-Quem pergunta é o pai, a verdade não esconda!`,
+Quem pergunta é o pai, a verdade não esconda! 2x`,
 
 /****************************************************/
 
