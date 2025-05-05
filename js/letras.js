@@ -391,7 +391,7 @@ Pedro quase afogou no mar da Galiléia`,
 /****************************************************/
 
 //Salmo 138 Tu me Conheces
-"Salmo 138 Tu me Conheces":
+"Salmo 138 Tu Me Conheces":
 `1. Tu me conheces quando estou sentado,
 Tu me conheces quando estou de pé.
 Vês claramente quando estou andando,

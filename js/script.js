@@ -26,7 +26,7 @@ document.addEventListener("DOMContentLoaded", function () {
         "Oracao da Noite Mais Outro Dia Findou": "Oração da Noite (mais outro dia findou)",
         "Oracao Pela Paz": "Oração Pela Paz",
         "Oracao Pela Familia": "Oração pela Família",
-        "Salmo 138 Tu me Conheces": "Salmo 138 Tu me Conheces",
+        "Salmo 138 Tu Me Conheces": "Salmo 138 Tu Me Conheces",
         "Senhor Se Tu Me Chamas": "Senhor, Se Tu Me Chamas",
         "Um Certo Galileu": "Um Certo Galileu"
     };
