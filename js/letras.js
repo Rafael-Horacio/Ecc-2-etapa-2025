@@ -39,31 +39,31 @@ Quem pergunta é o pai, a verdade não esconda!`,
 Ele é meu Deus e nosso Deus
 Ele é meu Pai e nosso Pai
 
-Ele fez o universo
+Ele fez o universo 2x
 
 Ele tem o mundo em suas mãos
 Ele é meu Deus e nosso Deus
 Ele é meu Pai e nosso Pai
 
-Ele é quem me deu a vida
+Ele é quem me deu a vida 2x
 
 Ele tem o mundo em suas mãos
 Ele é meu Deus e nosso Deus
 Ele é meu Pai e nosso Pai
 
-Ele amou a humanidade
+Ele amou a humanidade 2x
 
 Ele tem o mundo em suas mãos
 Ele é meu Deus e nosso Deus
 Ele é meu Pai e nosso Pai
 
-Ele deu Seu próprio Filho
+Ele deu Seu próprio Filho 2x
 
 Ele tem o mundo em suas mãos
 Ele é meu Deus e nosso Deus
 Ele é meu Pai e nosso Pai
 
-Ele me adotou por filho
+Ele me adotou por filho 2x
 
 Ele tem o mundo em suas mãos
 Ele é meu Deus e nosso Deus
